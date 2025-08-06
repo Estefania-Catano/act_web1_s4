@@ -2,4 +2,6 @@
 // (Tipo de función: Función de orden superior)",
 
 const multiplicar = (arr) => arr.reduce ((acc, num) => acc*num,1);
-console.log(multiplicar([1,2,3,4,5]));
+
+console.log("Producto de los elementos del arreglo es: " + multiplicar([1, 2, 3, 4, 5]));
+

@@ -2,6 +2,6 @@
 // (Tipo de función: IIFE)",
 
 (function(){
-    console.log("!Bienvenido¡");
+    console.log("¡Bienvenido!");
     
 }())

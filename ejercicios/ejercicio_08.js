@@ -4,4 +4,4 @@
 setTimeout(function(){
     console.log("Lo siento me demore demasiado");
     
-},5000)
+},3000)
